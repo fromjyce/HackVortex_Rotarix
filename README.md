@@ -114,7 +114,7 @@ Rotarix is a cryptographic key management and rotation system designed to enhanc
 
 ---
 ## Demo Video  
-🔗 **Watch the full demo here:** [DEMO](DEMO)  
+🔗 **Watch the full demo here:** [https://youtu.be/G0t6o9SnWC8](DEMO)  
 ---
 
 ## Getting Started
